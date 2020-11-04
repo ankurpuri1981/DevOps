@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Instructions for Practice Project
 ========================================
 
@@ -52,3 +53,7 @@ If you encounter errors with Ubuntu version numbers not being available or check
 
 * Find the newest version number and checksum from the [Ubuntu website for this release](http://releases.ubuntu.com/trusty/)
 * Edit `PACKER_BOX_NAME` and `iso_checksum` in the template files to match that version number and checksum.
+=======
+# DevOps
+Created for Azure DevOps project
+>>>>>>> 4de9d79207ca9d8f21964634cd3d04f1858839af
